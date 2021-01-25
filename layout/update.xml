@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="5">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:background="#ffffff" />
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:background="@color/colorPrimaryDark" />
+    </LinearLayout>
+
+  <ImageView
+        android:id="@+id/fajar"
+        android:layout_width="171dp"
+        android:layout_height="167dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/abc_vector_test"
+        app:civ_border_color="@color/colorPrimary"
+        app:civ_border_width="4dp" />
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:inputType="phone"
+        android:id="@+id/nomorr"
+        android:hint="nomor telephon tujuan"
+        android:textColorHint="@color/colorPrimaryDark"
+        android:layout_below="@id/fajar"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorPrimary"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SUBMIT"
+        android:layout_below="@id/nomorr"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/buttelp"/>
+
+
+</RelativeLayout>
