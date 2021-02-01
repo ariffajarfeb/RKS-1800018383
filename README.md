@@ -2,7 +2,7 @@
 
 Pada Aplikasi perpustakaan yang saya buat dengan nama "Perpustakaanku" ini dibuat menggunakan Aplikasi Android Studio untuk membuat Front End/UI.Pada aplikasi yang saya buat ini dibuat ini agak berbeda dengan rancangan wireframe,workflow,dan rincian kebutuhan yang dibuat sebelum uas,berikut link folder berisi workflow,wireframe,dan rincian kebutuhan:
 https://drive.google.com/drive/u/0/folders/1vy5qYrw8LNlO-gOYNMVmH2OaoNBYbnEs
-Dan berikut file file pada project yang telah dibuat:
+- Dan berikut file file pada project yang telah dibuat:
 
 A.Layout:
 - activity_main.xml
