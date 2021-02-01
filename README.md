@@ -47,6 +47,13 @@ F.manifest
 
 
 SCREENSHOOT
+![p1](https://user-images.githubusercontent.com/48522670/106479646-223e7280-64dd-11eb-97aa-8945070ef138.png)
+![p2](https://user-images.githubusercontent.com/48522670/106479653-24083600-64dd-11eb-8229-09412960d696.png)
+![p3](https://user-images.githubusercontent.com/48522670/106479655-24a0cc80-64dd-11eb-8a1c-932f62f026c2.png)
+![p4](https://user-images.githubusercontent.com/48522670/106479656-25396300-64dd-11eb-9f98-ea39f835e1fe.png)
+![p5](https://user-images.githubusercontent.com/48522670/106479658-25d1f980-64dd-11eb-9bbb-bfe0f57a605e.png)
+![p6](https://user-images.githubusercontent.com/48522670/106479661-266a9000-64dd-11eb-90bd-2ec60a88b85e.png)
+![p7](https://user-images.githubusercontent.com/48522670/106479662-27032680-64dd-11eb-9a58-3783209d6838.png)
 
 
 
