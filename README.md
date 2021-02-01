@@ -13,40 +13,41 @@ A.Layout:
 - row_data.xml
 
 B.Drawable
--perpus.png
--logo_home.png
--bg_btn_facebook.xml
--bg_btn_google.xml
--bg_color_primary.xml
--bg_edit_teks.xml
--bg_forgot_password.xml
--bg_prepare_login.png
+- perpus.png
+- logo_home.png
+- bg_btn_facebook.xml
+- bg_btn_google.xml
+- bg_color_primary.xml
+- bg_edit_teks.xml
+- bg_forgot_password.xml
+- bg_prepare_login.png
 
 
 C.Java
--MainActivity.java
--SigninActivity.java
--SignUp.java
--Pinjam.Activity.java
--AddActivity.java
--CustomCusrsorAdapter.java
+- MainActivity.java
+- SigninActivity.java
+- SignUp.java
+- Pinjam.Activity.java
+- AddActivity.java
+- CustomCusrsorAdapter.java
 
 D.Values
--color.xml
--dimens.xml
--strings.xml
--styles.xml
+- color.xml
+- dimens.xml
+- strings.xml
+- styles.xml
 
 E.menu
--add_menu.xml
--main.xml
--menu_main.xml
+- add_menu.xml
+- main.xml
+- menu_main.xml
 
 F.manifest
--AndroidManifest.xml
+- AndroidManifest.xml
 
 
-SCREENSHOOT
+
+- SCREENSHOOT
 ![p1](https://user-images.githubusercontent.com/48522670/106479646-223e7280-64dd-11eb-97aa-8945070ef138.png)
 ![p2](https://user-images.githubusercontent.com/48522670/106479653-24083600-64dd-11eb-8229-09412960d696.png)
 ![p3](https://user-images.githubusercontent.com/48522670/106479655-24a0cc80-64dd-11eb-8a1c-932f62f026c2.png)
